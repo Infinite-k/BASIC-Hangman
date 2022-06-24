@@ -41,7 +41,6 @@ while not end_of_game:
 
     print (stages[lives])
     
-print(chosen_word)
 
 
 
